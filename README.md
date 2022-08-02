@@ -2,7 +2,7 @@
 
 ## Here I have design and develop a simple personal organiser system in Python for recording and maintaining of modules in my University of Greenwich.
 
-### I have aim to produced this system to be well-designed👍 , robust, useful and made sure that the GUI design is clean, and simple to navigate😎 . This system i made operates smoothly withoutsluggishness or crashes and does not require any instructions or a manual to use.
+### I have aimed to produces this system to be well-designed👍 , robust, useful. Also, made sure that the GUI design is clean, and simple to navigate😎 . This system I made operates smoothly withoutsluggishness or crashes and does not require any instructions or a manual to use.
 
 #### I have maintained a list of available modules in a table called modules, which includes :
  
